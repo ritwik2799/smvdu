@@ -1,4 +1,4 @@
-/* name: Ritwik Mishra
+/* name: Vinayak Sharma
 SMVDU, Jammu ECE
 code description: user enters 3 numbers. the 3 numbers get compared, and displays which no. is greatest */
 #include <stdio.h>
